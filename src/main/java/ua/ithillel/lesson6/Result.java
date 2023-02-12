@@ -19,7 +19,6 @@ public class Result {
     public int getOccurrence() {
         return occurrence;
     }
-
     public void setName(String name) {
         this.name = name;
     }
