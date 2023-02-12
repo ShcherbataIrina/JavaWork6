@@ -56,7 +56,6 @@ class TDDListTest {
         assertEquals(TDDList.findUnique(list), List.of(1, 2, 3, 4, 5, 6, 7, 8, 9));
 
     }
-
     @Test
     void shouldCalcOccurrence() {
         List<String> list = new ArrayList<>();
